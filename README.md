@@ -1,2 +1,2 @@
 # iNote
-Simple note-taking app.
+(PL) Simple note-taking app.
